@@ -1,0 +1,84 @@
+2023-06-27 20:40:49,862 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 20:41:04,656 [INFO] Excel file saved in output/CxOne_Scans_Data_June-27-2023.xlsx
+2023-06-27 21:29:06,835 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 21:29:21,553 [INFO] Excel file saved in output/CxOne_Scans_Data_June-27-2023.xlsx
+2023-06-27 21:45:39,032 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 21:45:53,603 [INFO] Excel file saved in output/CxOne_Scans_Data_June-27-2023.xlsx
+2023-06-27 21:53:31,507 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 21:53:46,320 [INFO] Excel file saved in output/CxOne_Scans_Data_June-27-2023.xlsx
+2023-06-27 21:56:23,209 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 21:56:37,824 [INFO] Excel file saved in output/CxOne_Scans_Data_June-27-2023.xlsx
+2023-06-27 22:00:47,202 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 22:01:02,072 [INFO] Excel file saved in output/CxOne_Scans_Data_June-27-2023.xlsx
+2023-06-27 22:55:31,977 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 22:55:46,780 [INFO] Excel file saved in output/CxOne_Scans_Data_June-27-2023.xlsx
+2023-06-27 22:57:18,697 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 22:57:33,211 [INFO] Excel file saved in output/CxOne_Scans_Data_June-27-2023.xlsx
+2023-06-27 23:02:33,004 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 23:02:47,597 [INFO] Excel file saved in output/CxOne_Scans_Data_June-27-2023.xlsx
+2023-06-27 23:19:29,517 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 23:19:44,239 [ERROR] An error occurred: module 'datetime' has no attribute 'strptime'
+2023-06-27 23:27:33,429 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 23:27:47,878 [ERROR] An error occurred: module 'datetime' has no attribute 'strptime'
+2023-06-27 23:28:01,551 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 23:28:16,087 [ERROR] An error occurred: module 'datetime' has no attribute 'strptime'
+2023-06-27 23:29:45,119 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 23:29:59,741 [ERROR] An error occurred: module 'datetime' has no attribute 'strptime'
+2023-06-27 23:30:34,161 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 23:30:48,434 [ERROR] An error occurred: module 'datetime' has no attribute 'strptime'
+2023-06-27 23:33:14,330 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 23:33:28,916 [ERROR] An error occurred: module 'datetime' has no attribute 'strptime'
+2023-06-27 23:34:34,756 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 23:34:49,423 [ERROR] An error occurred: module 'datetime' has no attribute 'strptime'
+2023-06-27 23:36:02,805 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 23:36:17,234 [ERROR] An error occurred: module 'datetime' has no attribute 'strptime'
+2023-06-27 23:37:04,527 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 23:37:19,204 [ERROR] An error occurred: module 'datetime' has no attribute 'strptime'
+2023-06-27 23:39:02,571 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 23:39:17,231 [ERROR] An error occurred: module 'datetime' has no attribute 'strptime'
+2023-06-27 23:40:49,630 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 23:41:04,164 [ERROR] An error occurred: module 'datetime' has no attribute 'strptime'
+2023-06-27 23:46:10,823 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 23:46:25,309 [ERROR] An error occurred: module 'datetime' has no attribute 'strptime'
+2023-06-27 23:47:04,271 [INFO] JSON response saved in output/jsonResponse_June-27-2023.json
+2023-06-27 23:47:18,845 [ERROR] An error occurred: module 'datetime' has no attribute 'strptime'
+2023-06-28 09:15:32,329 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 09:15:46,818 [ERROR] An error occurred: module 'datetime' has no attribute 'strptime'
+2023-06-28 09:17:46,707 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 09:18:01,026 [ERROR] An error occurred: module 'datetime' has no attribute 'strptime'
+2023-06-28 09:18:29,529 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 09:18:43,943 [ERROR] An error occurred: module 'datetime' has no attribute 'strptime'
+2023-06-28 09:21:11,034 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 09:21:25,353 [ERROR] An error occurred: module 'datetime' has no attribute 'strptime'
+2023-06-28 09:22:31,000 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 09:22:45,444 [ERROR] An error occurred: module 'datetime' has no attribute 'strptime'
+2023-06-28 09:29:45,005 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 09:29:59,564 [INFO] Excel file saved in output/CxOne_Scans_Data_June-28-2023.xlsx
+2023-06-28 09:40:28,844 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 09:40:28,896 [ERROR] An error occurred: name 'pd' is not defined
+2023-06-28 09:41:05,507 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 09:41:20,000 [ERROR] An error occurred: 'NoneType' object has no attribute 'split'
+2023-06-28 09:42:11,240 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 09:42:25,735 [ERROR] An error occurred: 'NoneType' object has no attribute 'split'
+2023-06-28 09:44:01,906 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 09:44:16,522 [ERROR] An error occurred: 'NoneType' object has no attribute 'split'
+2023-06-28 09:45:17,570 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 09:45:40,135 [INFO] Excel file saved in output/CxOne_Scans_Data_June-28-2023.xlsx
+2023-06-28 09:49:23,707 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 09:49:45,871 [INFO] Excel file saved in output/CxOne_Scans_Data_June-28-2023.xlsx
+2023-06-28 09:52:10,209 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 09:52:32,389 [INFO] Excel file saved in output/CxOne_Scans_Data_June-28-2023.xlsx
+2023-06-28 09:55:45,880 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 09:56:08,085 [INFO] Excel file saved in output/CxOne_Scans_Data_June-28-2023.xlsx
+2023-06-28 14:23:55,328 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 14:24:17,798 [INFO] Excel file saved in output/CxOne_Scans_Data_June-28-2023.xlsx
+2023-06-28 14:55:58,289 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 14:55:58,347 [ERROR] An error occurred: name 'xlsxwriter' is not defined
+2023-06-28 14:56:39,282 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 14:56:39,338 [ERROR] An error occurred: name 'xlsxwriter' is not defined
+2023-06-28 15:01:26,015 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 15:01:26,296 [ERROR] An error occurred: Invalid file path or buffer object type: <class 'xlsxwriter.workbook.Workbook'>
+2023-06-28 15:02:40,102 [INFO] JSON response saved in output/jsonResponse_June-28-2023.json
+2023-06-28 15:02:45,905 [INFO] Excel files saved.
+2023-07-06 19:42:22,248 [INFO] JSON response saved in output/jsonResponse_July-06-2023.json
+2023-07-06 19:42:26,538 [INFO] Excel files saved.

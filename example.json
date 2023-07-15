@@ -1,0 +1,1526 @@
+{
+    "totalCount": 3606,
+    "filteredTotalCount": 3606,
+    "scans": [
+        {
+            "id": "bb8099be-3ebf-4515-abb1-bc41c5106ae6",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 6644
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-28T01:36:33.313386Z",
+            "updatedAt": "2023-06-28T01:38:18.743417Z",
+            "projectId": "3658aca9-a9ce-49c7-885f-6c6400220245",
+            "projectName": "CU7532",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "CU7532",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/uwra/lpa-batch-webservice_ba0224_cu7532.git",
+                "scanNumber": "2155",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "bb8099be-3ebf-4515-abb1-bc41c5106ae6",
+                "tags": {
+                    "assetID": "CU7532",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/uwra/lpa-batch-webservice_ba0224_cu7532.git",
+                    "scanNumber": "2155",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/a601bcca-b167-4072-bfe1-c16eb669ac6c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230628%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230628T013631Z&X-Amz-Expires=86400&X-Amz-Signature=d157c106bd8c0e141d57f5ada5de9c705ea60df704103a253707e277b36a967e&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "3658aca9-a9ce-49c7-885f-6c6400220245"
+                },
+                "created_at": {
+                    "nanos": 282936114,
+                    "seconds": 1687916193
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "79b5429b-5736-4d80-abbf-a2374ba02e44",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 4227
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-28T01:32:23.92096Z",
+            "updatedAt": "2023-06-28T01:34:17.133108Z",
+            "projectId": "b8231b8a-4a80-4f43-82c5-48a8861ffed6",
+            "projectName": "CQ1414",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "CQ1414",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/polaris/startupkit-svc_hs0260_cq1414.git",
+                "scanNumber": "2151",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "79b5429b-5736-4d80-abbf-a2374ba02e44",
+                "tags": {
+                    "assetID": "CQ1414",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/polaris/startupkit-svc_hs0260_cq1414.git",
+                    "scanNumber": "2151",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/7deb1a19-ad6c-452a-8bec-968e12d44160?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230628%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230628T013149Z&X-Amz-Expires=86400&X-Amz-Signature=7268c0ebc0a16b59e35c47d799b2c74a3f6e6d43b57c217bbcd5a447e9529364&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "b8231b8a-4a80-4f43-82c5-48a8861ffed6"
+                },
+                "created_at": {
+                    "nanos": 902428607,
+                    "seconds": 1687915943
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "c7f7d5dd-9099-407f-b3d0-faede684898f",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 5132
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-28T00:36:38.392616Z",
+            "updatedAt": "2023-06-28T00:38:22.870677Z",
+            "projectId": "2d696f97-7474-4e3d-b853-5c7569d4d84a",
+            "projectName": "XH8247",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "XH8247",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/sfdata/publish_notification_api_ba0321_xh8247.git",
+                "scanNumber": "2440",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "c7f7d5dd-9099-407f-b3d0-faede684898f",
+                "tags": {
+                    "assetID": "XH8247",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/sfdata/publish_notification_api_ba0321_xh8247.git",
+                    "scanNumber": "2440",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/0d23ec20-1e37-44f6-a373-b1787a762a78?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230628%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230628T003636Z&X-Amz-Expires=86400&X-Amz-Signature=7dbe25782938ac7fe079feef7b2befb8356eae74156a25dd789fb3465f7cbdb1&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "2d696f97-7474-4e3d-b853-5c7569d4d84a"
+                },
+                "created_at": {
+                    "nanos": 375900634,
+                    "seconds": 1687912598
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "41014ca4-6daf-46e2-9271-a46dc8dda739",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 18410
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-27T23:12:55.657544Z",
+            "updatedAt": "2023-06-27T23:14:42.439859Z",
+            "projectId": "59233521-a75b-48e2-a9be-2b5b374f000f",
+            "projectName": "GU4497",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "GU4497",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/uwra/cra_cras_bzf_ba0031_gu4497.git",
+                "scanNumber": "2213",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "41014ca4-6daf-46e2-9271-a46dc8dda739",
+                "tags": {
+                    "assetID": "GU4497",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/uwra/cra_cras_bzf_ba0031_gu4497.git",
+                    "scanNumber": "2213",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/f6d9910c-b9fe-465f-ba5d-2f344abe19a6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T231253Z&X-Amz-Expires=86400&X-Amz-Signature=1526ee8837880b02c4b7a1f61b776c7e00e3cfaf3d58991d03b6e2a265a76e54&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "59233521-a75b-48e2-a9be-2b5b374f000f"
+                },
+                "created_at": {
+                    "nanos": 641350162,
+                    "seconds": 1687907575
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "98947db2-8962-4dd2-9b31-3b6367564e98",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 24499
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-27T22:29:38.437376Z",
+            "updatedAt": "2023-06-27T22:31:23.549583Z",
+            "projectId": "a23477da-8fa4-4727-b66b-8980c154a21c",
+            "projectName": "BA0310",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "BA0310",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/mfcme/cme-securitization-collateral-data-consumer-adapter_ba0310_yg7076.git",
+                "scanNumber": "2117",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "98947db2-8962-4dd2-9b31-3b6367564e98",
+                "tags": {
+                    "assetID": "BA0310",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/mfcme/cme-securitization-collateral-data-consumer-adapter_ba0310_yg7076.git",
+                    "scanNumber": "2117",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/26a2a04f-05a1-4362-9e08-f1de3d18d10e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T222936Z&X-Amz-Expires=86400&X-Amz-Signature=11cd4c4482dd3df9940ec88fff321a739e714c49fa36e72807cd0c5df7162b8f&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "a23477da-8fa4-4727-b66b-8980c154a21c"
+                },
+                "created_at": {
+                    "nanos": 420188931,
+                    "seconds": 1687904978
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "c50b5b23-8492-4636-88ec-7c8c5582f4b1",
+            "status": "Completed",
+            "n": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 3360
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-27T21:12:52.050354Z",
+            "updatedAt": "2023-06-27T21:14:36.862702Z",
+            "projectId": "965cc976-ca35-471a-87b5-9632dfc23323",
+            "projectName": "SD0065",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "SD0065",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/sfdata/loan_verification_service_ba0321_sd0065.git",
+                "scanNumber": "2368",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "c50b5b23-8492-4636-88ec-7c8c5582f4b1",
+                "tags": {
+                    "assetID": "SD0065",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/sfdata/loan_verification_service_ba0321_sd0065.git",
+                    "scanNumber": "2368",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/7007938d-94c1-4cfe-913b-0c4dc4c35800?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T211249Z&X-Amz-Expires=86400&X-Amz-Signature=c97658dea25dce1fdedcb8f68ce53b7df3b57bb3b5448fc353b0e37075a6a815&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "965cc976-ca35-471a-87b5-9632dfc23323"
+                },
+                "created_at": {
+                    "nanos": 33455282,
+                    "seconds": 1687900372
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "8bbbf67b-376a-473c-a953-f2d7105e1d6e",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 1689
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-27T21:06:33.741102Z",
+            "updatedAt": "2023-06-27T21:08:17.416067Z",
+            "projectId": "5d0b6bd7-c035-4b04-949f-94b040f5504f",
+            "projectName": "VW2542",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "VW2542",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/sfamq/mbsapptopic-messageroutingservice_im0196_vw2542.git",
+                "scanNumber": "2423",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "8bbbf67b-376a-473c-a953-f2d7105e1d6e",
+                "tags": {
+                    "assetID": "VW2542",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/sfamq/mbsapptopic-messageroutingservice_im0196_vw2542.git",
+                    "scanNumber": "2423",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/7d80f36c-3a9c-442d-9dde-cb5b203ac7ab?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T210631Z&X-Amz-Expires=86400&X-Amz-Signature=1dbf4989a0ff0f3f2b72df14feb222652d8d95e9e5cfb460bde5e6722f7a599a&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "5d0b6bd7-c035-4b04-949f-94b040f5504f"
+                },
+                "created_at": {
+                    "nanos": 725475206,
+                    "seconds": 1687899993
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "073b3293-9ac2-4769-89e7-6a976e6a7d95",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 17107
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-27T21:04:03.029782Z",
+            "updatedAt": "2023-06-27T21:07:31.595152Z",
+            "projectId": "6dbf2949-04b3-414c-a8ae-2d512d3ab426",
+            "projectName": "SB5992",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "SB5992",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/sfdata/state_code_lookup_api_ba0321_sb5992.git",
+                "scanNumber": "2362",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "073b3293-9ac2-4769-89e7-6a976e6a7d95",
+                "tags": {
+                    "assetID": "SB5992",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/sfdata/state_code_lookup_api_ba0321_sb5992.git",
+                    "scanNumber": "2362",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/05f27159-b839-4aa7-8a2a-35e17e9195a7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T210359Z&X-Amz-Expires=86400&X-Amz-Signature=7c12be7c8f97892e6b2f037246796c63ac7b51a0415c02d6dd2c8128ad0ff17a&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "6dbf2949-04b3-414c-a8ae-2d512d3ab426"
+                },
+                "created_at": {
+                    "nanos": 12748141,
+                    "seconds": 1687899843
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "68830eab-25a6-4768-ad91-82feb21e58ed",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 3637
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-27T20:57:15.618993Z",
+            "updatedAt": "2023-06-27T20:58:59.723181Z",
+            "projectId": "23b346e6-49a8-42eb-ad6a-3d93ce304067",
+            "projectName": "IR1822",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "IR1822",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/sfdata/loan_search_status_change_service_ba0321_ir1822.git",
+                "scanNumber": "2235",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "68830eab-25a6-4768-ad91-82feb21e58ed",
+                "tags": {
+                    "assetID": "IR1822",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/sfdata/loan_search_status_change_service_ba0321_ir1822.git",
+                    "scanNumber": "2235",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/84ec6ab9-0fe0-4b7b-874c-29e9271c14cb?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T205712Z&X-Amz-Expires=86400&X-Amz-Signature=dec9a01672bcaa0ef6074ca8084f88fc5695a4556eef2fd12f8084fc402c91b5&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "23b346e6-49a8-42eb-ad6a-3d93ce304067"
+                },
+                "created_at": {
+                    "nanos": 602491048,
+                    "seconds": 1687899435
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "7c7018b8-eb27-48fd-978b-3e85132a758a",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 197735
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-27T20:47:31.840694Z",
+            "updatedAt": "2023-06-28T00:10:42.539534Z",
+            "projectId": "79b30b7d-5680-4e67-86e7-6744b181feb8",
+            "projectName": "BA0224-MS03",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "BA0224-MS03",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/uwra/lpa_s2s_ba0224_ba0224-ms03.git",
+                "scanNumber": "2080",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "7c7018b8-eb27-48fd-978b-3e85132a758a",
+                "tags": {
+                    "assetID": "BA0224-MS03",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/uwra/lpa_s2s_ba0224_ba0224-ms03.git",
+                    "scanNumber": "2080",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/88ff6c53-89e5-45e8-b8ca-d240d23926e7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T204615Z&X-Amz-Expires=86400&X-Amz-Signature=11593da62badabc04be7bc29d63b28614be4c13b19e3b2a119f8b1779bbe2a43&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "79b30b7d-5680-4e67-86e7-6744b181feb8"
+                },
+                "created_at": {
+                    "nanos": 823551627,
+                    "seconds": 1687898851
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "0f2c2392-2bf5-4bea-81a4-071ee1bead29",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 11769
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-27T20:45:12.528671Z",
+            "updatedAt": "2023-06-27T20:46:55.262433Z",
+            "projectId": "fb72a256-af58-4cac-a243-0a5a4c8d14c4",
+            "projectName": "BA0224-MS02",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "BA0224-MS02",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/uwra/lpa_authorization_ba0224_ba0224-ms02.git",
+                "scanNumber": "2079",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "0f2c2392-2bf5-4bea-81a4-071ee1bead29",
+                "tags": {
+                    "assetID": "BA0224-MS02",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/uwra/lpa_authorization_ba0224_ba0224-ms02.git",
+                    "scanNumber": "2079",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/a44c16b1-e701-4ad3-ba12-aeecf8aa3365?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T204508Z&X-Amz-Expires=86400&X-Amz-Signature=6155b4e44419946be4c750531e588f91493adb0d7d9272304ce0a0f204a6f1cc&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "fb72a256-af58-4cac-a243-0a5a4c8d14c4"
+                },
+                "created_at": {
+                    "nanos": 512050720,
+                    "seconds": 1687898712
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "b034d4d6-395d-4fc6-9fde-12525ae3ffbc",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 60954
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-27T20:44:39.325641Z",
+            "updatedAt": "2023-06-27T20:46:24.633647Z",
+            "projectId": "83a08eb9-c5f3-40c5-bc34-2251d20cdc40",
+            "projectName": "BA0224-MS01",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "BA0224-MS01",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/uwra/lpa_core_ba0224_ba0224-ms01.git",
+                "scanNumber": "2078",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "b034d4d6-395d-4fc6-9fde-12525ae3ffbc",
+                "tags": {
+                    "assetID": "BA0224-MS01",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/uwra/lpa_core_ba0224_ba0224-ms01.git",
+                    "scanNumber": "2078",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/b918ccab-b7b3-44b3-a8bd-ea5dedc42107?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T204428Z&X-Amz-Expires=86400&X-Amz-Signature=432d9565e057a826e7c69a3a1dcb33e4a9f73899440f786cf86246123588865a&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "83a08eb9-c5f3-40c5-bc34-2251d20cdc40"
+                },
+                "created_at": {
+                    "nanos": 310753900,
+                    "seconds": 1687898679
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "11db6097-cc7b-4552-93f2-4bcfa9bb97b4",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 10134
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-27T20:43:58.977985Z",
+            "updatedAt": "2023-06-27T20:45:43.725389Z",
+            "projectId": "1ce6f584-46b2-475e-ad25-63b025c039d9",
+            "projectName": "BA0212",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "BA0212",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/mfauth/mas_organization_mgmt_for_counterparty_service_im0193_ba0212.git",
+                "scanNumber": "2077",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "11db6097-cc7b-4552-93f2-4bcfa9bb97b4",
+                "tags": {
+                    "assetID": "BA0212",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/mfauth/mas_organization_mgmt_for_counterparty_service_im0193_ba0212.git",
+                    "scanNumber": "2077",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/ab4c5879-43bf-4df5-b3eb-eacfadc62bdc?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T204354Z&X-Amz-Expires=86400&X-Amz-Signature=a32219a1632dcae9f3f11778d147f2e205a2f2e251ec3bb6b44e13e82d772477&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "1ce6f584-46b2-475e-ad25-63b025c039d9"
+                },
+                "created_at": {
+                    "nanos": 963151561,
+                    "seconds": 1687898638
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "404d2f20-23ff-41e8-8b43-d42329402f17",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 10100
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-27T20:43:34.961114Z",
+            "updatedAt": "2023-06-27T20:45:19.115591Z",
+            "projectId": "36bfe677-2ae2-49ee-b7ff-5e24c21367af",
+            "projectName": "BA0211",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "BA0211",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/mfauth/mas_counterparty_security_role_manager_service_im0193_ba0211.git",
+                "scanNumber": "2076",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "404d2f20-23ff-41e8-8b43-d42329402f17",
+                "tags": {
+                    "assetID": "BA0211",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/mfauth/mas_counterparty_security_role_manager_service_im0193_ba0211.git",
+                    "scanNumber": "2076",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/36051276-1180-47b2-a793-df590d316c59?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T204331Z&X-Amz-Expires=86400&X-Amz-Signature=04b183d80c5e97eb97c4135cb6e934799243683f533ea0a5b377d9c411409862&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "36bfe677-2ae2-49ee-b7ff-5e24c21367af"
+                },
+                "created_at": {
+                    "nanos": 927235449,
+                    "seconds": 1687898614
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "f4125ae0-bbbd-4781-8e38-c7469486bec3",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 1706
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-27T20:30:44.310781Z",
+            "updatedAt": "2023-06-27T20:32:27.393333Z",
+            "projectId": "eef91848-c995-4378-b382-0941c96dc275",
+            "projectName": "MK7427",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "MK7427",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/sfamq/scc-messageroutingservice_im0196_mk7427.git",
+                "scanNumber": "2283",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "f4125ae0-bbbd-4781-8e38-c7469486bec3",
+                "tags": {
+                    "assetID": "MK7427",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/sfamq/scc-messageroutingservice_im0196_mk7427.git",
+                    "scanNumber": "2283",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/be9e0b0e-2d2f-48b5-8277-10f25a681d03?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T203043Z&X-Amz-Expires=86400&X-Amz-Signature=e31012cd2a17ce6ac6f728305be0432c58e7cbdb9107fb1fd1c01c7793a2b80d&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "eef91848-c995-4378-b382-0941c96dc275"
+                },
+                "created_at": {
+                    "nanos": 294273554,
+                    "seconds": 1687897844
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "2acbccfe-d4e8-4892-91c8-243fcdf75b0e",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 3277
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-27T20:22:04.484367Z",
+            "updatedAt": "2023-06-27T20:23:47.750227Z",
+            "projectId": "cd8ef289-383b-47e7-8e74-36a227dc9229",
+            "projectName": "KZ5854",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "KZ5854",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/sfdata/lookup_by_obligor_account_identifier_ba0321_kz5854.git",
+                "scanNumber": "2268",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "2acbccfe-d4e8-4892-91c8-243fcdf75b0e",
+                "tags": {
+                    "assetID": "KZ5854",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/sfdata/lookup_by_obligor_account_identifier_ba0321_kz5854.git",
+                    "scanNumber": "2268",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/45cebe97-c210-4251-a13c-dbfe86974e1f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T202202Z&X-Amz-Expires=86400&X-Amz-Signature=c78bda3ba694b76443056bb94037e40b7a43695b93d1504409b3c14f985eff28&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "cd8ef289-383b-47e7-8e74-36a227dc9229"
+                },
+                "created_at": {
+                    "nanos": 466684420,
+                    "seconds": 1687897324
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "cf253082-73ac-4a00-a9fe-a85c0c283f86",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 23462
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-27T20:19:08.460801Z",
+            "updatedAt": "2023-06-27T20:20:52.30766Z",
+            "projectId": "3e6c5ae8-764c-4daa-8de7-4bd9fa2416f0",
+            "projectName": "KW0890",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "KW0890",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/mfdls/mpp-proforma_workflow_service_im0183_kw0890.git",
+                "scanNumber": "2266",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "cf253082-73ac-4a00-a9fe-a85c0c283f86",
+                "tags": {
+                    "assetID": "KW0890",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/mfdls/mpp-proforma_workflow_service_im0183_kw0890.git",
+                    "scanNumber": "2266",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/a5786617-4652-4e83-ac56-74d4b143a389?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T201906Z&X-Amz-Expires=86400&X-Amz-Signature=ea06bbfeba3c9c78a631eb1825ebb95f840af590ca140010f1ba8186e0a2ed63&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "3e6c5ae8-764c-4daa-8de7-4bd9fa2416f0"
+                },
+                "created_at": {
+                    "nanos": 445073243,
+                    "seconds": 1687897148
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "18133a80-8fc9-4778-88b8-991c53c6cca7",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 1734
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-27T20:17:02.422342Z",
+            "updatedAt": "2023-06-27T20:18:46.50091Z",
+            "projectId": "eb5e517e-80f2-46ce-bea6-abd2eedc6fd8",
+            "projectName": "DR6492",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "DR6492",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/sfamq/settlementadapter-messageroutingservice_im0196_dr6492.git",
+                "scanNumber": "2165",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "18133a80-8fc9-4778-88b8-991c53c6cca7",
+                "tags": {
+                    "assetID": "DR6492",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/sfamq/settlementadapter-messageroutingservice_im0196_dr6492.git",
+                    "scanNumber": "2165",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/55a1cc30-1bf0-4445-9d4e-4be9ea929870?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T201700Z&X-Amz-Expires=86400&X-Amz-Signature=9eb7077974026331e63e2effd755d10fd845def97656241c2f5250ed2b29abf2&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "eb5e517e-80f2-46ce-bea6-abd2eedc6fd8"
+                },
+                "created_at": {
+                    "nanos": 406181265,
+                    "seconds": 1687897022
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "79dcbfc8-b76a-452a-acc9-ef81fa1ff5c2",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 36560
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-27T20:16:45.50003Z",
+            "updatedAt": "2023-06-27T20:18:35.06355Z",
+            "projectId": "69d132fd-8a92-446a-b6eb-6f2f43c2a1cb",
+            "projectName": "BR7764",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "BR7764",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/advbr/adv-sourcing_product_rules_service_ba0297_br7764.git",
+                "scanNumber": "2139",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "79dcbfc8-b76a-452a-acc9-ef81fa1ff5c2",
+                "tags": {
+                    "assetID": "BR7764",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/advbr/adv-sourcing_product_rules_service_ba0297_br7764.git",
+                    "scanNumber": "2139",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/cfa8eb7b-d0c0-41d0-a7ae-cdcecb7931b1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T201624Z&X-Amz-Expires=86400&X-Amz-Signature=65c4ad2498a9e8820a3e4f31abf0e147adf164d91be9b88554faadcd451231fd&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "69d132fd-8a92-446a-b6eb-6f2f43c2a1cb"
+                },
+                "created_at": {
+                    "nanos": 482397449,
+                    "seconds": 1687897005
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        },
+        {
+            "id": "5ddf6e5e-c031-467e-a223-efd5f322d38c",
+            "status": "Completed",
+            "statusDetails": [
+                {
+                    "name": "general",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sca",
+                    "status": "Completed",
+                    "details": ""
+                },
+                {
+                    "name": "sast",
+                    "status": "Completed",
+                    "details": "",
+                    "loc": 2621
+                }
+            ],
+            "branch": "resolver",
+            "createdAt": "2023-06-27T20:15:32.408651Z",
+            "updatedAt": "2023-06-27T20:17:17.661842Z",
+            "projectId": "c287b38e-4975-49a4-ad9d-7f266883654f",
+            "projectName": "DP0189",
+            "userAgent": "ASTCLI/2.0.47",
+            "initiator": "f408941",
+            "tags": {
+                "assetID": "DP0189",
+                "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/sfdata/enterprise_directory_user_account_ba0231_dp0189.git",
+                "scanNumber": "2164",
+                "scanSource": "MDTC"
+            },
+            "metadata": {
+                "id": "5ddf6e5e-c031-467e-a223-efd5f322d38c",
+                "tags": {
+                    "assetID": "DP0189",
+                    "codeRepo": "bitbkt.mdtc.itp01.p.fhlmc.com/scm/sfdata/enterprise_directory_user_account_ba0231_dp0189.git",
+                    "scanNumber": "2164",
+                    "scanSource": "MDTC"
+                },
+                "type": "upload",
+                "Handler": {
+                    "UploadHandler": {
+                        "branch": "resolver",
+                        "upload_url": "https://fmdev.cxone.cloud/storage/uploads-fmdev-nusoba/a1622fe9-6d4b-4576-a9e8-a9bc1d56723b/76f24666-0d70-45bb-bd7b-c92ed2d08a80?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ast%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T201510Z&X-Amz-Expires=86400&X-Amz-Signature=7cec4bbce4e6f4ea6a32db0dbee8c1807e28eb03b66fdf83df57ed8a00c9b376&X-Amz-SignedHeaders=host"
+                    }
+                },
+                "configs": [
+                    {
+                        "type": "sast",
+                        "value": {
+                            "presetName": "FM-Cxone-Preset",
+                            "incremental": "false"
+                        }
+                    },
+                    {
+                        "type": "sca"
+                    }
+                ],
+                "project": {
+                    "id": "c287b38e-4975-49a4-ad9d-7f266883654f"
+                },
+                "created_at": {
+                    "nanos": 393467452,
+                    "seconds": 1687896932
+                }
+            },
+            "engines": [
+                "sast",
+                "sca"
+            ],
+            "sourceType": "zip",
+            "sourceOrigin": "cli"
+        }
+    ]
+}
